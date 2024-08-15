@@ -12,5 +12,11 @@
         "content": "change the background to be red",
         "timestamp": "15082024034540",
         "message_id": "guest15082024034539"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Understood, I will change the background to red.",
+        "timestamp": "15082024034540",
+        "message_id": "guest15082024034539"
     }
 ]
