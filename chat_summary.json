@@ -18,5 +18,11 @@
         "content": "Understood, I will change the background to red.",
         "timestamp": "15082024034540",
         "message_id": "guest15082024034539"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable color themes for user preference\", \"checked\": true}, {\"feature\": \"Implement a dark mode option for better night-time usability\", \"checked\": false}, {\"feature\": \"Incorporate a color contrast ratio checker for accessibility compliance\", \"checked\": false}, {\"feature\": \"Integrate an interactive site-wide color scheme changer tool\", \"checked\": true}, {\"feature\": \"Add a preview feature to see changes in real-time before applying\", \"checked\": false}], \"input_token_count\": 210, \"output_token_count\": 111, \"time_taken\": \"0:00:03.772214\"}",
+        "timestamp": "15082024034545",
+        "message_id": "guest15082024034539"
     }
 ]
