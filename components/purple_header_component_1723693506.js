@@ -7,7 +7,7 @@
 Vue.component("purple_header_component_1723693506", {
     template: `
     <header class="w-full z-30" id="header-section-container">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-red-500">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-yellow-500">
             <div class="flex items-center justify-between h-16 md:h-20">
     
                 <div id="site-branding" class="flex-1"><a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip"><img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar"></a></div>
