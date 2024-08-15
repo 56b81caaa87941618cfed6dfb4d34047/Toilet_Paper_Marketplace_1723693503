@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable color themes for user preference\", \"checked\": true}, {\"feature\": \"Implement a dark mode option for better night-time usability\", \"checked\": false}, {\"feature\": \"Incorporate a color contrast ratio checker for accessibility compliance\", \"checked\": false}, {\"feature\": \"Integrate an interactive site-wide color scheme changer tool\", \"checked\": true}, {\"feature\": \"Add a preview feature to see changes in real-time before applying\", \"checked\": false}], \"input_token_count\": 210, \"output_token_count\": 111, \"time_taken\": \"0:00:03.772214\"}",
         "timestamp": "15082024034545",
         "message_id": "guest15082024034539"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the entire background of the app to be yellow, or are there specific sections/pages where you'd prefer this change?\", \"option1\": \"Entire background\", \"option2\": \"Specific sections/pages only\"}, {\"question 2\": \"Would you like to specify a particular shade of yellow to ensure it aligns with your brand identity or aesthetic preferences?\", \"option1\": \"Yes, I have a specific shade in mind\", \"option2\": \"No, any bright yellow will work\"}], \"input_token_count\": 303, \"output_token_count\": 116, \"time_taken\": \"0:00:04.391146\"}",
+        "timestamp": "15082024034629",
+        "message_id": "guest15082024034621"
     }
 ]
