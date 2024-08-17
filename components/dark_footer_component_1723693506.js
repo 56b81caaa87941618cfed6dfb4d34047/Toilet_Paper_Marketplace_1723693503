@@ -8,7 +8,7 @@
 
 Vue.component("dark_footer_component_1723693506", {
     template: `
-<footer id="footer-section-container">
+<footer id="footer-section-container" style="min-height: 270px">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
  
         <!-- Blocks -->
