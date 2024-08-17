@@ -1,6 +1,6 @@
 Vue.component("purple_header_component_1723693506", {
     template: `
-    <header class="w-full z-30" id="header-section-container" style="min-height: 310px">
+    <header class="w-full z-30" id="header-section-container" style="min-height: 110px" >
         <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-yellow-600">
             <div class="flex items-center justify-between h-16 md:h-20">
     
