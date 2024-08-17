@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the new image to be more realistic or stylized/cartoonish?\", \"option1\": \"Realistic\", \"option2\": \"Stylized/Cartoonish\"}, {\"question 2\": \"Should the new image maintain the current color scheme of the website or are you looking for something that introduces new colors?\", \"option1\": \"Maintain current color scheme\", \"option2\": \"Introduce new colors\"}], \"input_token_count\": 278, \"output_token_count\": 102, \"time_taken\": \"0:00:03.179280\"}",
+        "message_id": "guest17082024191724",
+        "timestamp": "17082024191729",
+        "component_file_name": "purple_background_cta_component_1723693506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be of a pile of toilet paper all over the place",
         "message_id": "guest17082024191724",
