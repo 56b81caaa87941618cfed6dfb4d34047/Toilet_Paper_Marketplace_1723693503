@@ -10,7 +10,7 @@ Vue.component("purple_header_component_1723693506", {
         <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-yellow-600">
             <div class="flex items-center justify-between h-16 md:h-20">
     
-                <div id="site-branding" class="flex-1"><a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip"><img id="logo-image" class="max-w-none" src="./images/logo.svg" width="38" height="38" alt="Stellar"></a></div>
+                <div id="site-branding" class="flex-1"><a id="logo-link" class="inline-flex" href="index.html" aria-label="Cruip"><img id="logo-image" class="max-w-none" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723693503/main/images/31bd52ad065f467eb8f0f52005ccc3ef.jpeg" width="38" height="38" alt="Stellar"></a></div>
     
                 <nav id="desktop-navigation" class="hidden md:flex md:grow">
     
@@ -68,4 +68,3 @@ Vue.component("purple_header_component_1723693506", {
             };
         },
     });
-                    
