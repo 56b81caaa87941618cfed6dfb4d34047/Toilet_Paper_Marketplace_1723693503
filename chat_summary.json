@@ -48,5 +48,11 @@
         "content": "Got it, I'll update the image to a dinosaur.",
         "timestamp": "17082024191624",
         "message_id": "guest17082024191624"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to replace an existing image or be added as a new feature on a specific page?\", \"option1\": \"Replace an existing image\", \"option2\": \"Add as a new feature on a specific page\"}, {\"question 2\": \"Do you have a specific dinosaur image in mind, or would you like us to select one based on a certain theme or style?\", \"option1\": \"I have a specific image in mind\", \"option2\": \"Select based on a theme or style\"}], \"input_token_count\": 270, \"output_token_count\": 120, \"time_taken\": \"0:00:02.513519\"}",
+        "timestamp": "17082024191628",
+        "message_id": "guest17082024191624"
     }
 ]
