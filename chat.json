@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hadoken' button to be positioned on the page?\", \"option1\": \"Next to the existing 'Buy Now' button\", \"option2\": \"At the bottom of the product description\"}, {\"question 2\": \"What action should be triggered when the 'Hadoken' button is clicked?\", \"option1\": \"Add the product to the shopping cart\", \"option2\": \"Show more product details\"}], \"input_token_count\": 272, \"output_token_count\": 103, \"time_taken\": \"0:00:02.100838\"}",
+        "message_id": "guest23082024202339",
+        "timestamp": "23082024202343",
+        "component_file_name": "basic_login_form_1724444527",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'll add a button named \"Hadoken\".",
         "message_id": "guest23082024202339",
