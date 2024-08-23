@@ -21,13 +21,13 @@
                   id="footer-logo"
                   class="inline-flex"
                   href="index.html"
-                  aria-label="FOOTER_COMPONENT_1_FOOTER_TEXT_1"
+                  aria-label="© 2023 RollMart. All rights reserved."
                 >
                   <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-slate-400">
-                &copy; FOOTER_COMPONENT_1_FOOTER_TEXT_1
+                &copy; © 2023 RollMart. All rights reserved.
                 <span class="text-slate-500">-</span> All rights reserved.
               </div>
             </div>
@@ -94,7 +94,7 @@
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400"
           >
-            FOOTER_COMPONENT_1_TITLE_TEXT
+            About RollMart
           </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
@@ -103,7 +103,7 @@
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_1
+                Our Story
               </a>
             </li>
             <li>
@@ -112,7 +112,7 @@
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_2
+                Quality Guarantee
               </a>
             </li>
             <li>
@@ -121,7 +121,7 @@
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_3
+                Sustainability Efforts
               </a>
             </li>
             <li>
@@ -130,7 +130,7 @@
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                FOOTER_COMPONENT_1_BODY_TEXT_4
+                Press & Media
               </a>
             </li>
           </ul>
@@ -139,7 +139,7 @@
         <!-- 3rd block -->
         <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">
-            FOOTER_COMPONENT_2_TITLE_TEXT
+            Customer Care
           </h6>
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
@@ -148,7 +148,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_1
+                Contact Us
               </a>
             </li>
             <li>
@@ -157,7 +157,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_2
+                FAQs
               </a>
             </li>
             <li>
@@ -166,7 +166,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_3
+                Shipping & Returns
               </a>
             </li>
             <li>
@@ -175,7 +175,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_2_BODY_TEXT_4
+                Privacy Policy
               </a>
             </li>
           </ul>
@@ -184,7 +184,7 @@
         <!-- 4th block -->
         <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">
-            FOOTER_COMPONENT_3_TITLE_TEXT
+            Explore RollMart
           </h6>
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
@@ -193,7 +193,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_1
+                Product Range
               </a>
             </li>
             <li>
@@ -202,7 +202,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_2
+                Bulk Orders
               </a>
             </li>
             <li>
@@ -211,7 +211,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_3
+                Subscription Service
               </a>
             </li>
             <li>
@@ -220,7 +220,7 @@
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FOOTER_COMPONENT_3_BODY_TEXT_4
+                Gift Cards
               </a>
             </li>
           </ul>
