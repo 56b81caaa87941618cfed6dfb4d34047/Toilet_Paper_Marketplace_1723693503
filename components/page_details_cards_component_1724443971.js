@@ -1,6 +1,6 @@
 <template>
     <!-- Summary: Contains a section with three cards with black background and white text. -->
-    <section id="page-details-cards-component" class="py-8 bg-white">
+    <section id="page-details-cards-component" style="min-height: 230px" class="py-8 bg-white">
         <h2 id="details-title" class="text-lg font-semibold mb-5 pl-4">Details</h2>
         <ul id="details-list" class="grid gap-4 min-[480px]:grid-cols-3 text-sm">
             <li id="project-length" class="px-5 py-4 rounded-lg bg-gradient-to-tr from-slate-950 to-slate-800 dark:from-slate-800/80 dark:to-slate-900">
