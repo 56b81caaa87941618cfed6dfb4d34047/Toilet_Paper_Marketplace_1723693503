@@ -5,7 +5,7 @@ It contains three left aligned pieces of text:
 - The grey hero sub text below it -->
 
 <template>
-    <section id="left-side-hero-component">
+    <section id="left-side-hero-component" style="min-height: 230px">
         <div id="left-content" class="relative w-full lg:w-1/2 lg:fixed lg:inset-0 lg:overflow-y-auto no-scrollbar lg:rounded-r-[3rem] bg-white bg-slate-900">
             <!-- Background Illustration -->
             <div id="bg-illustration" class="absolute top-0 -translate-y-64 left-1/2 -translate-x-1/2 blur-3xl pointer-events-none" aria-hidden="true">
