@@ -3,7 +3,7 @@
 
 Vue.component("particle_component_1723693506", {
     template: `
-    <div id="illustration"
+    <div id="illustration" style="min-height: 390px"
         class="absolute inset-0 -z-10 -mx-28 rounded-b-[5rem] pointer-events-none overflow-hidden"
         style="z-index:0" aria-hidden="true">
         <div id="illustration-inner" class="absolute left-1/2 -translate-x-1/2 bottom-0 -z-10">
