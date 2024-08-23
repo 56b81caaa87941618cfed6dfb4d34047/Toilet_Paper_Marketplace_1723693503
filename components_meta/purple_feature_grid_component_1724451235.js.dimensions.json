@@ -1,0 +1,18 @@
+{
+    "id": "purple_feature_grid_component-1bce3fd9-16d7-b03a-664f-8ee494829bc5",
+    "name": "purple_feature_grid_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 7,
+    "x": "100",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
