@@ -30,5 +30,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nAdd another form field called \"Asdf\" in addition to the password"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nAdd another button called: \"Hadoken\""
     }
 ]
