@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nchange the image to be of a pile of toilet paper all over the place"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested to change the background to red. The AI acknowledged the request by stating, \"Understood, I will change the background to red.\" However, the AI also sought further clarification by asking the user to describe the project a bit more. The user\u2019s request was focused on the background color, while the AI aimed to gather additional context for better assistance.\nUser: change the image to be of a pile of toilet paper all over the place\nAI: Got it, I'll update the image to a dinosaur.\nUser: change the image to be a dinosaur\n\nThis is the user's current request of changes to be made:\nChange the image to be a dinosaur"
     }
 ]
