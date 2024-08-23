@@ -15,9 +15,9 @@ It contains three left aligned pieces of text:
                 <div class="min-h-full w-full max-w-xl mx-auto flex flex-col justify-start px-4 sm:px-6 pt-36 pb-20 lg:py-20 flex-1" id="quote-header">
                     <div class="grow flex flex-col justify-center" id="quote-content">
                         <div class="space-y-3" id="quote-container">
-                            <div id="quote-title" class="font-caveat text-3xl text-blue-500">HERO_TEXT_BEFORE_TITLE</div>
-                            <h1 id="company-name" class="h1 font-orbiter font-bold text-white">HERO_TITLE</h1>
-                            <time id="quote-date" class="block font-caveat text-xl text-slate-400">HERO_SUBTITLE</time>
+                            <div id="quote-title" class="font-caveat text-3xl text-blue-500">Introducing the Ultimate Solution for Your Bathroom Needs</div>
+                            <h1 id="company-name" class="h1 font-orbiter font-bold text-white">RollMart: Your One-Stop Toilet Paper Marketplace</h1>
+                            <time id="quote-date" class="block font-caveat text-xl text-slate-400">Discover, Compare, and Purchase the Softest Rolls from Top Brands at Unbeatable Prices</time>
                         </div>
                     </div>
                 </div>
