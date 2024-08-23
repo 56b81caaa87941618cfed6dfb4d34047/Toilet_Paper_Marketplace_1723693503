@@ -18,6 +18,10 @@
             <label class="font-medium">Password</label>
             <input type="password" required class="w-full mt-2 px-3 py-2 text-black bg-transparent outline-none border border-gray-300 focus:border-purple-600 shadow-sm rounded-lg" />
           </div>
+          <div>
+            <label class="font-medium">Asdf</label>
+            <input type="text" required class="w-full mt-2 px-3 py-2 text-black bg-transparent outline-none border border-gray-300 focus:border-purple-600 shadow-sm rounded-lg" />
+          </div>
           <button class="w-full px-4 py-2 text-white font-medium bg-green-600 hover:bg-green-500 active:bg-green-600 rounded-lg duration-150">Sign in</button>
           <div class="text-center">
             <button class="bg-red-500 hover:bg-red-400 active:bg-yellow-500 text-white font-medium text-sm p-3 rounded-lg">Forgot password?</button>
