@@ -1,0 +1,18 @@
+{
+    "id": "echarts_bar_chart-cf714028-32e6-a4fd-cb36-218284bde553",
+    "name": "echarts_bar_chart",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
