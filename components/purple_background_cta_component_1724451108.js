@@ -31,17 +31,17 @@ It is centered on the page and includes a gradient-based title, a subtitle, a pa
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
             <div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">
-              CTA_CONTENT_SUBTITLE
+              Browse, Compare, and Save on Quality TP
             </div>
           </div>
           <div class="flex" id="content-title-container">
             <h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60">
-              CTA_TITLE
+              Roll into Savings: Your Toilet Paper Marketplace
             </h2>
           </div>
           <div class="flex" id="content-body-container">
             <p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">
-              CTA_BODY
+              Discover the ultimate destination for all your bathroom tissue needs. From ultra-soft to eco-friendly options, we've got your bottom line covered.
             </p>
           </div>
           <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">
