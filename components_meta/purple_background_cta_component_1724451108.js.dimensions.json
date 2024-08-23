@@ -1,0 +1,18 @@
+{
+    "id": "purple_background_cta_component-a43f65da-5815-71bc-fb1f-211222fe118b",
+    "name": "purple_background_cta_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 5,
+    "x": "100",
+    "y": "40",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
