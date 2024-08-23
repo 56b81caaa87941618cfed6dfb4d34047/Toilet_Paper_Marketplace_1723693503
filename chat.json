@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll add a button named \"Hadoken\".",
+        "message_id": "guest23082024202339",
+        "timestamp": "23082024202340",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add another button called: \"Hadoken\"",
         "message_id": "guest23082024202339",
