@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Noted, adding a new form field called \"Asdf\".",
+        "message_id": "guest23082024202255",
+        "timestamp": "23082024202256",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add another form field called \"Asdf\" in addition to the password",
         "message_id": "guest23082024202255",
