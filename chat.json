@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific type or style of dinosaur image in mind?\", \"option1\": \"Yes, I want a cartoon-style dinosaur.\", \"option2\": \"No, any realistic dinosaur image will work.\"}, {\"question 2\": \"Should the dinosaur image replace all current images or be added to a specific section?\", \"option1\": \"Replace all current images\", \"option2\": \"Add to a specific section only\"}], \"input_token_count\": 401, \"output_token_count\": 100, \"time_taken\": \"0:00:02.970350\"}",
+        "message_id": "guest23082024201347",
+        "timestamp": "23082024201353",
+        "component_file_name": "simple_footer_component_1724444005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, I'll change the image to a dinosaur.",
         "message_id": "guest23082024201347",
