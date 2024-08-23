@@ -4,5 +4,6 @@
     "project_description": "toilet paper market place",
     "creation_time": "2024-08-14 23:45:03.084712",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image employs a vibrant, neon color scheme with dominant hues of pink and purple, characterized by a surreal, otherworldly style featuring a dramatic landscape under a celestial sky with planets."
 }
