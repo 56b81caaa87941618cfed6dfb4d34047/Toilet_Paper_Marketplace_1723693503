@@ -6,7 +6,7 @@
 4. The fourth column contains resources for the community, terms of service, and a vulnerability reporting page.
 5. The fifth column covers legal information such as the refund policy, terms and conditions, privacy policy, and brand kit.
 -->  
-<footer id="footer-section-container" style="min-height: 190px">
+<footer id="footer-section-container" style="min-height: 190px" >
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
         <!-- Blocks -->
         <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
