@@ -1,0 +1,18 @@
+{
+    "id": "testimonial_section_with_three_column-039ec141-1744-34ec-0a37-0bf835a6ad35",
+    "name": "testimonial_section_with_three_column",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 7,
+    "x": "100",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
