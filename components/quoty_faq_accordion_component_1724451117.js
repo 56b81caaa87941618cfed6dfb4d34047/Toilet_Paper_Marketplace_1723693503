@@ -6,7 +6,7 @@ Summary: Contains a section with:
 
 <template>
   <section class="py-8 bg-white pl-4">
-    <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+    <h2 class="text-lg font-semibold mb-5">Frequently Asked Questions About Our Toilet Paper Marketplace</h2>
     <!-- Accordion -->
     <div class="space-y-3">
       <!-- Accordion item -->
@@ -73,10 +73,10 @@ export default {
   data() {
     return {
       terms: [
-        { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-        { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-        { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-        { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false }
+        { title: "How does the toilet paper marketplace work?", description: "Our marketplace connects toilet paper buyers with sellers. Users can browse listings, compare prices, and purchase various types of toilet paper from different vendors all in one convenient platform.", expanded: false },
+        { title: "What types of toilet paper are available?", description: "We offer a wide range of toilet paper options, including recycled, ultra-soft, quilted, scented, and bulk packages. Our sellers provide products to suit every preference and budget.", expanded: false },
+        { title: "How is shipping handled?", description: "Shipping is managed by individual sellers. Each listing includes shipping information and costs. Many sellers offer free shipping on bulk orders or purchases over a certain amount.", expanded: false },
+        { title: "What if I'm not satisfied with my purchase?", description: "We have a customer satisfaction guarantee. If you're not happy with your purchase, contact the seller within 14 days for a refund or exchange. Our support team is also available to assist with any issues.", expanded: false }
       ]
     };
   },
