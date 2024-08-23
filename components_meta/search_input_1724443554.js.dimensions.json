@@ -1,12 +1,14 @@
 {
-    "id": "search_input-cc3d6cef-1c8f-b051-2327-1c1ed4b1de8a",
+    "id": "search_input_1724443554",
     "name": "search_input",
     "type": "containerComponent",
-    "metadata": {},
+    "metadata": {
+        "markdownText": "<template>\n  <form class=\"max-w-md px-4 mx-auto mt-12\">\n    <div class=\"relative\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" class=\"cursor-pointer text-black absolute top-0 bottom-0 w-6 h-6 my-auto text-gray-400 text-left left-4\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z\" /></svg>\n      <input type=\"text\" placeholder=\"Search\" class=\"text-black w-full py-3 pl-12 pr-4 border rounded-md outline-none bg-gray-50 focus:bg-white focus:border-indigo-600 text-right right-10\" />\n    </div>\n  </form>\n</template>\n\n<script>\n// Define the search_input_1724443554 component\nexport default {\n  name: 'search_input',\n  data() {\n    return {\n      // Data properties can be defined here\n    }\n  }\n}\n</script>\n\n<style scoped>\n/* Add any required styles for the component here */\n</style>"
+    },
     "w": 4,
     "h": 4,
-    "x": "30",
-    "y": "30",
+    "x": 5,
+    "y": 0,
     "i": "__dropping-elem__",
     "minW": 3,
     "maxW": 12,
