@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, I will replace the image with a laptop.",
+        "message_id": "guest26082024212623",
+        "timestamp": "26082024212624",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "replace the image with a laptop",
         "message_id": "guest26082024212623",
