@@ -34,5 +34,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nAdd another button called: \"Hadoken\""
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested changes to their website's visual elements. Initially, they asked for an image of a pile of toilet paper, to which the AI acknowledged and responded by offering a list of additional features that could be implemented, including adding high-quality images and an interactive product customization tool. The AI then presented the user with two questions regarding the style and color scheme of the new image. Next, the user specified they wanted the image changed to a dinosaur, which the AI confirmed it would update. \n\nThe conversation continued with the AI providing another list of potential enhancements, including adjusting the navigation bar color and enhancing text contrast. The user was again asked to clarify their preferences regarding the background color. After discussing the color scheme further, the user finally directed the AI to change the background to red. The AI acknowledged this last request and sought additional clarification about the project.\nAI: Noted, adding a new form field called \"Asdf\".\nUser: Add another form field called \"Asdf\" in addition to the password\nAI: Certainly, I'll change the image to a dinosaur.\nAI: Got it, working on changing the image to a dinosaur.\nUser: Change the image to be a dinosaur\n\nThis is the user's current request of changes to be made:\nReplace the image in the component with a t-rex"
     }
 ]
