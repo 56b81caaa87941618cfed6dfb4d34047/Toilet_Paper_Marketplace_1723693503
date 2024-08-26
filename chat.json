@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a slider for before and after views of product images, showcasing the t-rex image transformation\", \"checked\": true}, {\"feature\": \"Implement hover-over tooltips on the t-rex image for product details\", \"checked\": false}, {\"feature\": \"Incorporate an interactive 3D model viewer for the t-rex image to enhance user engagement\", \"checked\": false}, {\"feature\": \"Enable user-uploaded photos for personalized product previews with the t-rex image\", \"checked\": false}, {\"feature\": \"Add a 'Related Products' carousel below the t-rex image to increase discoverability of similar items\", \"checked\": true}, {\"feature\": \"Integrate social share buttons on the product page for the t-rex image to increase virality\", \"checked\": true}], \"input_token_count\": 484, \"output_token_count\": 183, \"time_taken\": \"0:00:05.432624\"}",
+        "message_id": "guest26082024212427",
+        "timestamp": "26082024212436",
+        "component_file_name": "search_input_1724443554",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the T-Rex image to have a specific art style?\", \"option1\": \"Yes, a realistic style.\", \"option2\": \"No, a cartoonish style.\"}, {\"question 2\": \"Should the T-Rex image be in a specific action pose or static pose?\", \"option1\": \"Yes, in an action pose (e.g., running or roaring).\", \"option2\": \"No, a static pose will suffice.\"}], \"input_token_count\": 530, \"output_token_count\": 107, \"time_taken\": \"0:00:04.622856\"}",
         "message_id": "guest26082024212427",
