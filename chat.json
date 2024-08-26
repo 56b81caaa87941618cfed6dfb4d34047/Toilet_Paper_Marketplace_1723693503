@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the T-Rex image to have a specific art style?\", \"option1\": \"Yes, a realistic style.\", \"option2\": \"No, a cartoonish style.\"}, {\"question 2\": \"Should the T-Rex image be in a specific action pose or static pose?\", \"option1\": \"Yes, in an action pose (e.g., running or roaring).\", \"option2\": \"No, a static pose will suffice.\"}], \"input_token_count\": 530, \"output_token_count\": 107, \"time_taken\": \"0:00:04.622856\"}",
+        "message_id": "guest26082024212427",
+        "timestamp": "26082024212435",
+        "component_file_name": "search_input_1724443554",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Replace the image in the component with a t-rex",
         "message_id": "guest26082024212427",
