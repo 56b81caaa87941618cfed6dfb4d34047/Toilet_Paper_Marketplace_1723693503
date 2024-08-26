@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically on the site do you want the laptop image to be placed?\", \"option1\": \"Replace the main banner image\", \"option2\": \"Replace an image within a specific section or component\"}, {\"question 2\": \"Do you have a specific laptop image in mind, or would you like us to select a high-quality stock image?\", \"option1\": \"I will provide the image\", \"option2\": \"Please select a stock image\"}], \"input_token_count\": 622, \"output_token_count\": 106, \"time_taken\": \"0:00:06.417194\"}",
+        "message_id": "guest26082024212722",
+        "timestamp": "26082024212733",
+        "component_file_name": "purple_background_cta_component_1723693506",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Replace the image with a picture of a laptop",
         "message_id": "guest26082024212722",
