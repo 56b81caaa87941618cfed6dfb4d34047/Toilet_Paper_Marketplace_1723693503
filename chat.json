@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically should the laptop image be placed on the website?\", \"option1\": \"In the header next to the site logo\", \"option2\": \"As the main background image for the homepage\"}, {\"question 2\": \"Do you have a specific laptop image in mind, or would you prefer we select one that fits the current design aesthetics?\", \"option1\": \"I will provide the specific laptop image\", \"option2\": \"Please select an image that fits the current design\"}], \"input_token_count\": 619, \"output_token_count\": 112, \"time_taken\": \"0:00:03.967072\"}",
+        "message_id": "guest26082024212623",
+        "timestamp": "26082024212629",
+        "component_file_name": "search_input_1724443554",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, I will replace the image with a laptop.",
         "message_id": "guest26082024212623",
