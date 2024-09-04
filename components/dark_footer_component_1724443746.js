@@ -16,7 +16,7 @@
                     <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
                         <div class="mb-4">
                             <!-- Logo -->
-                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved."> <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723693503/main/images/357c54747ced44d796062c8767fb7020.jpeg" width="38" height="38" alt="Stellar"></a>
+                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved."> <img src="./images/logo.svg" width="38" height="38" alt="Stellar"></a>
                         </div>
                         <div id="footer-copyright" class="text-sm text-slate-400">&copy; © 2023 RollMart. All rights reserved. <span class="text-slate-500">-</span> All rights reserved.</div>
                     </div>
