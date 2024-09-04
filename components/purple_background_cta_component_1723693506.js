@@ -1,4 +1,4 @@
-/** Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
+/* Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
 It is centered on the page and includes a gradient-based title, a subtitle, a paragraph of text, and a button with a gradient background.
 */
 
@@ -27,7 +27,7 @@ Vue.component("purple_background_cta_component_1723693506", {
                     <div class="flex" id="content-body-container"><p id="content-body" class="flex-1 text-lg mb-8" :class="[contentBodyStyle]">Discover the ultimate destination for all your bathroom tissue needs. From ultra-soft to eco-friendly options, we've got your bottom line covered.</p></div>
                     <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group" :class="[contentCtaButtonPrimaryStyle, contentCtaButtonGradientStyle, contentCtaButtonGradientStyle, contentCtaButtonHoverStyle]">Get Started <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1" :class="contentCtaArrowStyle">-&gt;</span></a>
                     <!-- New Image Added -->
-                    <img id="cta-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723693503/main/images/0e22c265c83c48018d19162a224e0387.jpeg" alt="Toilet Paper Marketplace" class="mt-8 mx-auto rounded" />
+                    <img id="cta-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723693503/main/images/ac5594df28494d1faa59f078f6edb4a0.jpeg" alt="Toilet Paper Marketplace" class="mt-8 mx-auto rounded" />
                 </div>
             </div>
         </div>
