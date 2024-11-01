@@ -359,6 +359,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of font or style do you want for the 'Hadoken' text?\", \"option1\": \"Bold and dynamic\", \"option2\": \"Casual and playful\"}, {\"question 2\": \"Do you prefer any specific color theme for 'Hadoken' to match the app\\u2019s design?\", \"option1\": \"Fiery colors (like red and orange)\", \"option2\": \"Cool colors (like blue and green)\"}], \"input_token_count\": 565, \"output_token_count\": 103, \"time_taken\": \"0:00:01.080146\"}",
+        "message_id": "guest01112024222258",
+        "timestamp": "01112024222303",
+        "component_file_name": "simple_footer_component_1724444005",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019m changing RollMart to Hadoken now.",
         "message_id": "guest01112024222258",
