@@ -359,6 +359,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific streetfighter characters or themes do you want to be reflected in the text?\", \"option1\": \"Focus on character names and quotes\", \"option2\": \"Use general streetfighter slang and terminology\"}, {\"question 2\": \"Do you have a particular tone in mind for the streetfighter themed text (e.g., playful, aggressive, humorous)?\", \"option1\": \"Light-hearted and fun\", \"option2\": \"Serious and competitive\"}], \"input_token_count\": 588, \"output_token_count\": 107, \"time_taken\": \"0:00:01.109213\"}",
+        "message_id": "guest01112024222000",
+        "timestamp": "01112024222004",
+        "component_file_name": "dark_footer_component_1724443746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I\u2019m working on making all text streetfighter themed.",
         "message_id": "guest01112024222000",
