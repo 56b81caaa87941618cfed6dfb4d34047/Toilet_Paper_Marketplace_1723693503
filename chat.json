@@ -359,6 +359,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific style or design do you envision for the 'Shoryouken guarantee' text?\", \"option1\": \"Bold and prominent\", \"option2\": \"Subtle and understated\"}, {\"question 2\": \"Would you like this change to have any specific effects, like animation or color change when hovered over?\", \"option1\": \"Yes, some effects would be nice\", \"option2\": \"No, just plain text is fine\"}], \"input_token_count\": 640, \"output_token_count\": 104, \"time_taken\": \"0:00:01.297324\"}",
+        "message_id": "guest01112024222109",
+        "timestamp": "01112024222114",
+        "component_file_name": "dark_footer_component_1724443746",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019ll change \"Quality Guarantee\" to \"Shoryouken guarantee.\"",
         "message_id": "guest01112024222109",
