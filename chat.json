@@ -359,6 +359,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Absolutely, I\u2019m working on making all text streetfighter themed.",
+        "message_id": "guest01112024222000",
+        "timestamp": "01112024222001",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change all of the text to be streetfighter themed",
         "message_id": "guest01112024222000",
