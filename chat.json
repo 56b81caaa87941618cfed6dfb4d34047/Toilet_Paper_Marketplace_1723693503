@@ -359,6 +359,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I\u2019m changing RollMart to Hadoken now.",
+        "message_id": "guest01112024222258",
+        "timestamp": "01112024222300",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change RollMart to Hadoken",
         "message_id": "guest01112024222258",
