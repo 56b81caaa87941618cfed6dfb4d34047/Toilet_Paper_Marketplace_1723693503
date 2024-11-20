@@ -1,469 +1,498 @@
 [
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Replace the existing image with a high-resolution picture of a laptop, ensuring it blends well with the site's design\", \"checked\": true}, {\"feature\": \"Add an interactive product comparison feature, allowing users to compare different brands of toilet paper\", \"checked\": false}, {\"feature\": \"Implement a dynamic price tracker that tracks and displays the current prices of toilet paper from various suppliers\", \"checked\": false}, {\"feature\": \"Incorporate customer reviews and ratings for each toilet paper brand, enabling users to make informed decisions\", \"checked\": false}, {\"feature\": \"Design a 'favorites' feature where users can save their preferred toilet paper brands for quick access in future visits\", \"checked\": false}, {\"feature\": \"Create a 'New Arrivals' section to showcase the latest products in the toilet paper market\", \"checked\": false}], \"input_token_count\": 576, \"output_token_count\": 187, \"time_taken\": \"0:00:09.174270\"}",
-        "message_id": "guest26082024212722",
-        "timestamp": "26082024212735",
-        "component_file_name": "purple_background_cta_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically on the site do you want the laptop image to be placed?\", \"option1\": \"Replace the main banner image\", \"option2\": \"Replace an image within a specific section or component\"}, {\"question 2\": \"Do you have a specific laptop image in mind, or would you like us to select a high-quality stock image?\", \"option1\": \"I will provide the image\", \"option2\": \"Please select a stock image\"}], \"input_token_count\": 622, \"output_token_count\": 106, \"time_taken\": \"0:00:06.417194\"}",
-        "message_id": "guest26082024212722",
-        "timestamp": "26082024212733",
-        "component_file_name": "purple_background_cta_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
+        "id": "guest01112024222000",
+        "timestamp": "2024-11-01T22:20:00",
         "role": "user",
-        "content": "Replace the image with a picture of a laptop",
-        "message_id": "guest26082024212722",
-        "timestamp": "26082024212722",
-        "component_file_name": "purple_background_cta_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a high-resolution laptop image suitable for all devices\", \"checked\": true}, {\"feature\": \"Implement a responsive image viewer for the laptop image\", \"checked\": true}, {\"feature\": \"Include an interactive gallery to showcase different laptop models\", \"checked\": false}, {\"feature\": \"Offer a zoom feature on the laptop image for detailed viewing\", \"checked\": false}, {\"feature\": \"Enable users to upload custom laptop images as profile pictures\", \"checked\": false}, {\"feature\": \"Incorporate a feature to compare laptop images side by side\", \"checked\": false}], \"input_token_count\": 573, \"output_token_count\": 122, \"time_taken\": \"0:00:07.343767\"}",
-        "message_id": "guest26082024212623",
-        "timestamp": "26082024212632",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically should the laptop image be placed on the website?\", \"option1\": \"In the header next to the site logo\", \"option2\": \"As the main background image for the homepage\"}, {\"question 2\": \"Do you have a specific laptop image in mind, or would you prefer we select one that fits the current design aesthetics?\", \"option1\": \"I will provide the specific laptop image\", \"option2\": \"Please select an image that fits the current design\"}], \"input_token_count\": 619, \"output_token_count\": 112, \"time_taken\": \"0:00:03.967072\"}",
-        "message_id": "guest26082024212623",
-        "timestamp": "26082024212629",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Acknowledged, I will replace the image with a laptop.",
-        "message_id": "guest26082024212623",
-        "timestamp": "26082024212624",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "replace the image with a laptop",
-        "message_id": "guest26082024212623",
-        "timestamp": "26082024212623",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement responsive image gallery for showcasing different types of toilet paper\", \"checked\": true}, {\"feature\": \"Add hover effects on images for instant product previews\", \"checked\": false}, {\"feature\": \"Incorporate a feature to allow users to upload their own toilet paper designs via a web interface\", \"checked\": false}, {\"feature\": \"Add a comparison tool to compare different toilet paper products side by side\", \"checked\": true}, {\"feature\": \"Implement a 'Favorites' feature to let users save their preferred toilet paper choices for quick access\", \"checked\": true}, {\"feature\": \"Add tooltips and information icons next to product features for user education on sustainability practices\", \"checked\": false}], \"input_token_count\": 223, \"output_token_count\": 158, \"time_taken\": \"0:00:05.499567\"}",
-        "message_id": "guest26082024212521",
-        "timestamp": "26082024212529",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Affirmative, working on replacing the image with a laptop.",
-        "message_id": "guest26082024212521",
-        "timestamp": "26082024212522",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "replace the image with a laptop",
-        "message_id": "guest26082024212521",
-        "timestamp": "26082024212522",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a slider for before and after views of product images, showcasing the t-rex image transformation\", \"checked\": true}, {\"feature\": \"Implement hover-over tooltips on the t-rex image for product details\", \"checked\": false}, {\"feature\": \"Incorporate an interactive 3D model viewer for the t-rex image to enhance user engagement\", \"checked\": false}, {\"feature\": \"Enable user-uploaded photos for personalized product previews with the t-rex image\", \"checked\": false}, {\"feature\": \"Add a 'Related Products' carousel below the t-rex image to increase discoverability of similar items\", \"checked\": true}, {\"feature\": \"Integrate social share buttons on the product page for the t-rex image to increase virality\", \"checked\": true}], \"input_token_count\": 484, \"output_token_count\": 183, \"time_taken\": \"0:00:05.432624\"}",
-        "message_id": "guest26082024212427",
-        "timestamp": "26082024212436",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the T-Rex image to have a specific art style?\", \"option1\": \"Yes, a realistic style.\", \"option2\": \"No, a cartoonish style.\"}, {\"question 2\": \"Should the T-Rex image be in a specific action pose or static pose?\", \"option1\": \"Yes, in an action pose (e.g., running or roaring).\", \"option2\": \"No, a static pose will suffice.\"}], \"input_token_count\": 530, \"output_token_count\": 107, \"time_taken\": \"0:00:04.622856\"}",
-        "message_id": "guest26082024212427",
-        "timestamp": "26082024212435",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Replace the image in the component with a t-rex",
-        "message_id": "guest26082024212427",
-        "timestamp": "26082024212427",
-        "component_file_name": "search_input_1724443554",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add 'Quick Reorder' button for repeat purchases\", \"checked\": true}, {\"feature\": \"Incorporate a 'Product Comparison' tool\", \"checked\": false}, {\"feature\": \"Enable 'Wishlist' feature for users to save favorites\", \"checked\": false}, {\"feature\": \"Add 'Filter by Brand' option in the search area\", \"checked\": true}, {\"feature\": \"Implement 'Real-time Stock Updates' on product pages\", \"checked\": true}, {\"feature\": \"Introduce 'Customer Ratings & Reviews' section for products\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 123, \"time_taken\": \"0:00:06.896894\"}",
-        "message_id": "guest23082024202339",
-        "timestamp": "23082024202348",
-        "component_file_name": "basic_login_form_1724444527",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hadoken' button to be positioned on the page?\", \"option1\": \"Next to the existing 'Buy Now' button\", \"option2\": \"At the bottom of the product description\"}, {\"question 2\": \"What action should be triggered when the 'Hadoken' button is clicked?\", \"option1\": \"Add the product to the shopping cart\", \"option2\": \"Show more product details\"}], \"input_token_count\": 272, \"output_token_count\": 103, \"time_taken\": \"0:00:02.100838\"}",
-        "message_id": "guest23082024202339",
-        "timestamp": "23082024202343",
-        "component_file_name": "basic_login_form_1724444527",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, I'll add a button named \"Hadoken\".",
-        "message_id": "guest23082024202339",
-        "timestamp": "23082024202340",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Add another button called: \"Hadoken\"",
-        "message_id": "guest23082024202339",
-        "timestamp": "23082024202339",
-        "component_file_name": "basic_login_form_1724444527",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add input validation for 'Asdf' form field to ensure data integrity\", \"checked\": true}, {\"feature\": \"Implement dynamic tooltips for the 'Asdf' field to guide users on what to input\", \"checked\": false}, {\"feature\": \"Add a 'Show/Hide' password toggle for enhanced user security\", \"checked\": true}, {\"feature\": \"Incorporate real-time field validation feedback for the 'Asdf' and password fields\", \"checked\": false}, {\"feature\": \"Introduce a password strength indicator next to the password field\", \"checked\": true}, {\"feature\": \"Enable auto-fill for the 'Asdf' field for returning users\", \"checked\": false}], \"input_token_count\": 231, \"output_token_count\": 158, \"time_taken\": \"0:00:06.103983\"}",
-        "message_id": "guest23082024202255",
-        "timestamp": "23082024202303",
-        "component_file_name": "basic_login_form_1724444527",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Noted, adding a new form field called \"Asdf\".",
-        "message_id": "guest23082024202255",
-        "timestamp": "23082024202256",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Add another form field called \"Asdf\" in addition to the password",
-        "message_id": "guest23082024202255",
-        "timestamp": "23082024202255",
-        "component_file_name": "basic_login_form_1724444527",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a customizable background feature allowing users to choose between various themes including dinosaurs, toilet paper piles, and other patterns.\", \"checked\": true}, {\"feature\": \"Add a dynamic product showcase carousel on the homepage featuring top-selling toilet papers with animated dinosaur mascots for engagement.\", \"checked\": false}, {\"feature\": \"Include a 'Fun Facts' section about toilet paper with interactive dinosaur-themed illustrations.\", \"checked\": false}, {\"feature\": \"Introduce an augmented reality (AR) view feature allowing users to visualize products in their space alongside playful dinosaur graphics.\", \"checked\": false}, {\"feature\": \"Create a feedback form with a dinosaur-themed UI for users to suggest future backgrounds or features.\", \"checked\": false}], \"input_token_count\": 355, \"output_token_count\": 158, \"time_taken\": \"0:00:05.212832\"}",
-        "message_id": "guest23082024201347",
-        "timestamp": "23082024201355",
-        "component_file_name": "simple_footer_component_1724444005",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific type or style of dinosaur image in mind?\", \"option1\": \"Yes, I want a cartoon-style dinosaur.\", \"option2\": \"No, any realistic dinosaur image will work.\"}, {\"question 2\": \"Should the dinosaur image replace all current images or be added to a specific section?\", \"option1\": \"Replace all current images\", \"option2\": \"Add to a specific section only\"}], \"input_token_count\": 401, \"output_token_count\": 100, \"time_taken\": \"0:00:02.970350\"}",
-        "message_id": "guest23082024201347",
-        "timestamp": "23082024201353",
-        "component_file_name": "simple_footer_component_1724444005",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Certainly, I'll change the image to a dinosaur.",
-        "message_id": "guest23082024201347",
-        "timestamp": "23082024201348",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjust the color palette to complement the new dinosaur image, ensuring it matches the website's theme.\", \"checked\": true}, {\"feature\": \"Add an interactive dinosaur-themed game as a user engagement tool on the home page.\", \"checked\": false}, {\"feature\": \"Implement an 'Easter Egg' feature that reveals fun facts about dinosaurs when certain images are clicked.\", \"checked\": false}, {\"feature\": \"Update the product descriptions to include humorous references to dinosaurs, enhancing the overall fun vibe of the marketplace.\", \"checked\": true}, {\"feature\": \"Incorporate dinosaur-themed animations or transitions for loading screens or while navigating between pages.\", \"checked\": true}, {\"feature\": \"Add a filter option in the product search to 'Sort by Prehistoric Popularity', blending the dinosaur theme with the product listings.\", \"checked\": false}], \"input_token_count\": 355, \"output_token_count\": 185, \"time_taken\": \"0:00:07.804903\"}",
-        "message_id": "guest23082024200929",
-        "timestamp": "23082024200938",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the dinosaur image to have a specific theme or color scheme to match the current website design?\", \"option1\": \"Yes, please match it with the website's current color scheme.\", \"option2\": \"No, any colorful dinosaur image will work.\"}, {\"question 2\": \"Should the new dinosaur image replace a specific existing image or be added as a new element on the page?\", \"option1\": \"Replace an existing image.\", \"option2\": \"Add as a new element on the page.\"}], \"input_token_count\": 401, \"output_token_count\": 118, \"time_taken\": \"0:00:04.486235\"}",
-        "message_id": "guest23082024200929",
-        "timestamp": "23082024200935",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, working on changing the image to a dinosaur.",
-        "message_id": "guest23082024200929",
-        "timestamp": "23082024200930",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the image to be a dinosaur",
-        "message_id": "guest23082024200929",
-        "timestamp": "23082024200929",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723693506",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add high-quality, zoomable images of individual toilet paper products\", \"checked\": false}, {\"feature\": \"Implement a 'featured products' slider on the homepage with eye-catching toilet paper collections\", \"checked\": false}, {\"feature\": \"Introduce an interactive product customization tool for users to visualize different toilet paper designs\", \"checked\": false}, {\"feature\": \"Add a gallery section with creative and funny uses of toilet paper for inspiration\", \"checked\": false}, {\"feature\": \"Include user-generated content section where customers can upload their own photos with the purchased toilet paper\", \"checked\": false}, {\"feature\": \"Incorporate a 'before and after' image comparison feature for eco-friendly toilet paper\", \"checked\": false}], \"input_token_count\": 232, \"output_token_count\": 164, \"time_taken\": \"0:00:06.436251\"}",
-        "message_id": "guest17082024191724",
-        "timestamp": "17082024191732",
-        "component_file_name": "purple_background_cta_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the new image to be more realistic or stylized/cartoonish?\", \"option1\": \"Realistic\", \"option2\": \"Stylized/Cartoonish\"}, {\"question 2\": \"Should the new image maintain the current color scheme of the website or are you looking for something that introduces new colors?\", \"option1\": \"Maintain current color scheme\", \"option2\": \"Introduce new colors\"}], \"input_token_count\": 278, \"output_token_count\": 102, \"time_taken\": \"0:00:03.179280\"}",
-        "message_id": "guest17082024191724",
-        "timestamp": "17082024191729",
-        "component_file_name": "purple_background_cta_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "change the image to be of a pile of toilet paper all over the place",
-        "message_id": "guest17082024191724",
-        "timestamp": "17082024191725",
-        "component_file_name": "purple_background_cta_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add dynamic image gallery for product previews\", \"checked\": true}, {\"feature\": \"Implement image zoom feature on hover for product images\", \"checked\": false}, {\"feature\": \"Include a feature to customize product images (stickers, frames, etc.)\", \"checked\": false}, {\"feature\": \"Install an image comparison slider for before and after views\", \"checked\": true}, {\"feature\": \"Enable user profile avatars to be customized with themes like dinosaurs\", \"checked\": false}, {\"feature\": \"Integrate a 'Featured Products' section with rotating high-quality images\", \"checked\": true}], \"input_token_count\": 224, \"output_token_count\": 127, \"time_taken\": \"0:00:02.659217\"}",
-        "message_id": "guest17082024191624",
-        "timestamp": "17082024191628",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to replace an existing image or be added as a new feature on a specific page?\", \"option1\": \"Replace an existing image\", \"option2\": \"Add as a new feature on a specific page\"}, {\"question 2\": \"Do you have a specific dinosaur image in mind, or would you like us to select one based on a certain theme or style?\", \"option1\": \"I have a specific image in mind\", \"option2\": \"Select based on a theme or style\"}], \"input_token_count\": 270, \"output_token_count\": 120, \"time_taken\": \"0:00:02.513519\"}",
-        "message_id": "guest17082024191624",
-        "timestamp": "17082024191628",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, I'll update the image to a dinosaur.",
-        "message_id": "guest17082024191624",
-        "timestamp": "17082024191624",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "change the image to be a dinosaur",
-        "message_id": "guest17082024191624",
-        "timestamp": "17082024191624",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjust navigation bar color to complement yellow background\", \"checked\": true}, {\"feature\": \"Implement a customizable theme option for users\", \"checked\": false}, {\"feature\": \"Enhance text contrast for better readability against yellow background\", \"checked\": true}, {\"feature\": \"Add a feature that allows users to switch between light and dark mode\", \"checked\": false}, {\"feature\": \"Introduce a color-blind mode to enhance accessibility\", \"checked\": false}, {\"feature\": \"Update button colors to ensure they stand out on the yellow background\", \"checked\": true}], \"input_token_count\": 257, \"output_token_count\": 132, \"time_taken\": \"0:00:04.993356\"}",
-        "message_id": "guest15082024034621",
-        "timestamp": "15082024034629",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the entire background of the app to be yellow, or are there specific sections/pages where you'd prefer this change?\", \"option1\": \"Entire background\", \"option2\": \"Specific sections/pages only\"}, {\"question 2\": \"Would you like to specify a particular shade of yellow to ensure it aligns with your brand identity or aesthetic preferences?\", \"option1\": \"Yes, I have a specific shade in mind\", \"option2\": \"No, any bright yellow will work\"}], \"input_token_count\": 303, \"output_token_count\": 116, \"time_taken\": \"0:00:04.391146\"}",
-        "message_id": "guest15082024034621",
-        "timestamp": "15082024034629",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable color themes for user preference\", \"checked\": true}, {\"feature\": \"Implement a dark mode option for better night-time usability\", \"checked\": false}, {\"feature\": \"Incorporate a color contrast ratio checker for accessibility compliance\", \"checked\": false}, {\"feature\": \"Integrate an interactive site-wide color scheme changer tool\", \"checked\": true}, {\"feature\": \"Add a preview feature to see changes in real-time before applying\", \"checked\": false}], \"input_token_count\": 210, \"output_token_count\": 111, \"time_taken\": \"0:00:03.772214\"}",
-        "message_id": "guest15082024034539",
-        "timestamp": "15082024034545",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Understood, I will change the background to red.",
-        "message_id": "guest15082024034539",
-        "timestamp": "15082024034540",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "change the background to be red",
-        "message_id": "guest15082024034539",
-        "timestamp": "15082024034540",
-        "component_file_name": "purple_header_component_1723693506",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change branding name to 'Hadoken'\", \"checked\": true}, {\"feature\": \"Add a search bar\", \"checked\": false}, {\"feature\": \"Implement a user review section\", \"checked\": false}, {\"feature\": \"Integrate social media sharing buttons\", \"checked\": false}, {\"feature\": \"Include a wishlist feature\", \"checked\": false}], \"input_token_count\": 519, \"output_token_count\": 87, \"time_taken\": \"0:00:01.526408\"}",
-        "message_id": "guest01112024222258",
-        "timestamp": "01112024222306",
-        "component_file_name": "simple_footer_component_1724444005",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of font or style do you want for the 'Hadoken' text?\", \"option1\": \"Bold and dynamic\", \"option2\": \"Casual and playful\"}, {\"question 2\": \"Do you prefer any specific color theme for 'Hadoken' to match the app\\u2019s design?\", \"option1\": \"Fiery colors (like red and orange)\", \"option2\": \"Cool colors (like blue and green)\"}], \"input_token_count\": 565, \"output_token_count\": 103, \"time_taken\": \"0:00:01.080146\"}",
-        "message_id": "guest01112024222258",
-        "timestamp": "01112024222303",
-        "component_file_name": "simple_footer_component_1724444005",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I\u2019m changing RollMart to Hadoken now.",
-        "message_id": "guest01112024222258",
-        "timestamp": "01112024222300",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change RollMart to Hadoken",
-        "message_id": "guest01112024222258",
-        "timestamp": "01112024222259",
-        "component_file_name": "simple_footer_component_1724444005",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change image to a laptop\", \"checked\": true}, {\"feature\": \"Update 'Quality Guarantee' to 'Shoryouken guarantee'\", \"checked\": true}, {\"feature\": \"Add a dynamic testimonial section\", \"checked\": false}, {\"feature\": \"Implement a product comparison tool\", \"checked\": false}, {\"feature\": \"Incorporate user-generated content gallery\", \"checked\": false}, {\"feature\": \"Introduce a themed loading animation\", \"checked\": false}], \"input_token_count\": 594, \"output_token_count\": 112, \"time_taken\": \"0:00:01.754391\"}",
-        "message_id": "guest01112024222109",
-        "timestamp": "01112024222118",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific style or design do you envision for the 'Shoryouken guarantee' text?\", \"option1\": \"Bold and prominent\", \"option2\": \"Subtle and understated\"}, {\"question 2\": \"Would you like this change to have any specific effects, like animation or color change when hovered over?\", \"option1\": \"Yes, some effects would be nice\", \"option2\": \"No, just plain text is fine\"}], \"input_token_count\": 640, \"output_token_count\": 104, \"time_taken\": \"0:00:01.297324\"}",
-        "message_id": "guest01112024222109",
-        "timestamp": "01112024222114",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I\u2019ll change \"Quality Guarantee\" to \"Shoryouken guarantee.\"",
-        "message_id": "guest01112024222109",
-        "timestamp": "01112024222111",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change \"Quality Guarantee\" to be \"Shoryouken guarantee\"",
-        "message_id": "guest01112024222109",
-        "timestamp": "01112024222110",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Street Fighter themed font styles\", \"checked\": true}, {\"feature\": \"Dynamic text animations inspired by Street Fighter moves\", \"checked\": false}, {\"feature\": \"Character icons from Street Fighter as text indicators\", \"checked\": false}, {\"feature\": \"Background graphics resembling Street Fighter arenas\", \"checked\": true}, {\"feature\": \"Sound effects from Street Fighter games on text interactions\", \"checked\": false}], \"input_token_count\": 542, \"output_token_count\": 97, \"time_taken\": \"0:00:01.763283\"}",
-        "message_id": "guest01112024222000",
-        "timestamp": "01112024222011",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific streetfighter characters or themes do you want to be reflected in the text?\", \"option1\": \"Focus on character names and quotes\", \"option2\": \"Use general streetfighter slang and terminology\"}, {\"question 2\": \"Do you have a particular tone in mind for the streetfighter themed text (e.g., playful, aggressive, humorous)?\", \"option1\": \"Light-hearted and fun\", \"option2\": \"Serious and competitive\"}], \"input_token_count\": 588, \"output_token_count\": 107, \"time_taken\": \"0:00:01.109213\"}",
-        "message_id": "guest01112024222000",
-        "timestamp": "01112024222004",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Absolutely, I\u2019m working on making all text streetfighter themed.",
-        "message_id": "guest01112024222000",
-        "timestamp": "01112024222001",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
+        "source": "user",
         "content": "Change all of the text to be streetfighter themed",
-        "message_id": "guest01112024222000",
-        "timestamp": "01112024222000",
-        "component_file_name": "dark_footer_component_1724443746",
-        "div_id": "",
-        "div_action": ""
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest01112024222000",
+        "timestamp": "2024-11-01T22:20:01",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Absolutely, I\u2019m working on making all text streetfighter themed.",
+        "metadata": {}
+    },
+    {
+        "id": "guest01112024222000",
+        "timestamp": "2024-11-01T22:20:04",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific streetfighter characters or themes do you want to be reflected in the text?\", \"option1\": \"Focus on character names and quotes\", \"option2\": \"Use general streetfighter slang and terminology\"}, {\"question 2\": \"Do you have a particular tone in mind for the streetfighter themed text (e.g., playful, aggressive, humorous)?\", \"option1\": \"Light-hearted and fun\", \"option2\": \"Serious and competitive\"}], \"input_token_count\": 588, \"output_token_count\": 107, \"time_taken\": \"0:00:01.109213\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest01112024222000",
+        "timestamp": "2024-11-01T22:20:11",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Street Fighter themed font styles\", \"checked\": true}, {\"feature\": \"Dynamic text animations inspired by Street Fighter moves\", \"checked\": false}, {\"feature\": \"Character icons from Street Fighter as text indicators\", \"checked\": false}, {\"feature\": \"Background graphics resembling Street Fighter arenas\", \"checked\": true}, {\"feature\": \"Sound effects from Street Fighter games on text interactions\", \"checked\": false}], \"input_token_count\": 542, \"output_token_count\": 97, \"time_taken\": \"0:00:01.763283\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest01112024222109",
+        "timestamp": "2024-11-01T22:21:10",
+        "role": "user",
+        "source": "user",
+        "content": "Change \"Quality Guarantee\" to be \"Shoryouken guarantee\"",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest01112024222109",
+        "timestamp": "2024-11-01T22:21:11",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Sure, I\u2019ll change \"Quality Guarantee\" to \"Shoryouken guarantee.\"",
+        "metadata": {}
+    },
+    {
+        "id": "guest01112024222109",
+        "timestamp": "2024-11-01T22:21:14",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific style or design do you envision for the 'Shoryouken guarantee' text?\", \"option1\": \"Bold and prominent\", \"option2\": \"Subtle and understated\"}, {\"question 2\": \"Would you like this change to have any specific effects, like animation or color change when hovered over?\", \"option1\": \"Yes, some effects would be nice\", \"option2\": \"No, just plain text is fine\"}], \"input_token_count\": 640, \"output_token_count\": 104, \"time_taken\": \"0:00:01.297324\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest01112024222109",
+        "timestamp": "2024-11-01T22:21:18",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change image to a laptop\", \"checked\": true}, {\"feature\": \"Update 'Quality Guarantee' to 'Shoryouken guarantee'\", \"checked\": true}, {\"feature\": \"Add a dynamic testimonial section\", \"checked\": false}, {\"feature\": \"Implement a product comparison tool\", \"checked\": false}, {\"feature\": \"Incorporate user-generated content gallery\", \"checked\": false}, {\"feature\": \"Introduce a themed loading animation\", \"checked\": false}], \"input_token_count\": 594, \"output_token_count\": 112, \"time_taken\": \"0:00:01.754391\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest01112024222258",
+        "timestamp": "2024-11-01T22:22:59",
+        "role": "user",
+        "source": "user",
+        "content": "Change RollMart to Hadoken",
+        "metadata": {
+            "component_id": "simple_footer_component_1724444005"
+        }
+    },
+    {
+        "id": "guest01112024222258",
+        "timestamp": "2024-11-01T22:23:00",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Sure, I\u2019m changing RollMart to Hadoken now.",
+        "metadata": {}
+    },
+    {
+        "id": "guest01112024222258",
+        "timestamp": "2024-11-01T22:23:03",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of font or style do you want for the 'Hadoken' text?\", \"option1\": \"Bold and dynamic\", \"option2\": \"Casual and playful\"}, {\"question 2\": \"Do you prefer any specific color theme for 'Hadoken' to match the app\\u2019s design?\", \"option1\": \"Fiery colors (like red and orange)\", \"option2\": \"Cool colors (like blue and green)\"}], \"input_token_count\": 565, \"output_token_count\": 103, \"time_taken\": \"0:00:01.080146\"}",
+        "metadata": {
+            "component_id": "simple_footer_component_1724444005"
+        }
+    },
+    {
+        "id": "guest01112024222258",
+        "timestamp": "2024-11-01T22:23:06",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Change branding name to 'Hadoken'\", \"checked\": true}, {\"feature\": \"Add a search bar\", \"checked\": false}, {\"feature\": \"Implement a user review section\", \"checked\": false}, {\"feature\": \"Integrate social media sharing buttons\", \"checked\": false}, {\"feature\": \"Include a wishlist feature\", \"checked\": false}], \"input_token_count\": 519, \"output_token_count\": 87, \"time_taken\": \"0:00:01.526408\"}",
+        "metadata": {
+            "component_id": "simple_footer_component_1724444005"
+        }
+    },
+    {
+        "id": "guest15082024034539",
+        "timestamp": "2024-08-15T03:45:40",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Understood, I will change the background to red.",
+        "metadata": {}
+    },
+    {
+        "id": "guest15082024034539",
+        "timestamp": "2024-08-15T03:45:40",
+        "role": "user",
+        "source": "user",
+        "content": "change the background to be red",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest15082024034539",
+        "timestamp": "2024-08-15T03:45:45",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add customizable color themes for user preference\", \"checked\": true}, {\"feature\": \"Implement a dark mode option for better night-time usability\", \"checked\": false}, {\"feature\": \"Incorporate a color contrast ratio checker for accessibility compliance\", \"checked\": false}, {\"feature\": \"Integrate an interactive site-wide color scheme changer tool\", \"checked\": true}, {\"feature\": \"Add a preview feature to see changes in real-time before applying\", \"checked\": false}], \"input_token_count\": 210, \"output_token_count\": 111, \"time_taken\": \"0:00:03.772214\"}",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest15082024034621",
+        "timestamp": "2024-08-15T03:46:29",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjust navigation bar color to complement yellow background\", \"checked\": true}, {\"feature\": \"Implement a customizable theme option for users\", \"checked\": false}, {\"feature\": \"Enhance text contrast for better readability against yellow background\", \"checked\": true}, {\"feature\": \"Add a feature that allows users to switch between light and dark mode\", \"checked\": false}, {\"feature\": \"Introduce a color-blind mode to enhance accessibility\", \"checked\": false}, {\"feature\": \"Update button colors to ensure they stand out on the yellow background\", \"checked\": true}], \"input_token_count\": 257, \"output_token_count\": 132, \"time_taken\": \"0:00:04.993356\"}",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest15082024034621",
+        "timestamp": "2024-08-15T03:46:29",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the entire background of the app to be yellow, or are there specific sections/pages where you'd prefer this change?\", \"option1\": \"Entire background\", \"option2\": \"Specific sections/pages only\"}, {\"question 2\": \"Would you like to specify a particular shade of yellow to ensure it aligns with your brand identity or aesthetic preferences?\", \"option1\": \"Yes, I have a specific shade in mind\", \"option2\": \"No, any bright yellow will work\"}], \"input_token_count\": 303, \"output_token_count\": 116, \"time_taken\": \"0:00:04.391146\"}",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest17082024191624",
+        "timestamp": "2024-08-17T19:16:24",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Got it, I'll update the image to a dinosaur.",
+        "metadata": {}
+    },
+    {
+        "id": "guest17082024191624",
+        "timestamp": "2024-08-17T19:16:24",
+        "role": "user",
+        "source": "user",
+        "content": "change the image to be a dinosaur",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest17082024191624",
+        "timestamp": "2024-08-17T19:16:28",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add dynamic image gallery for product previews\", \"checked\": true}, {\"feature\": \"Implement image zoom feature on hover for product images\", \"checked\": false}, {\"feature\": \"Include a feature to customize product images (stickers, frames, etc.)\", \"checked\": false}, {\"feature\": \"Install an image comparison slider for before and after views\", \"checked\": true}, {\"feature\": \"Enable user profile avatars to be customized with themes like dinosaurs\", \"checked\": false}, {\"feature\": \"Integrate a 'Featured Products' section with rotating high-quality images\", \"checked\": true}], \"input_token_count\": 224, \"output_token_count\": 127, \"time_taken\": \"0:00:02.659217\"}",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest17082024191624",
+        "timestamp": "2024-08-17T19:16:28",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur image to replace an existing image or be added as a new feature on a specific page?\", \"option1\": \"Replace an existing image\", \"option2\": \"Add as a new feature on a specific page\"}, {\"question 2\": \"Do you have a specific dinosaur image in mind, or would you like us to select one based on a certain theme or style?\", \"option1\": \"I have a specific image in mind\", \"option2\": \"Select based on a theme or style\"}], \"input_token_count\": 270, \"output_token_count\": 120, \"time_taken\": \"0:00:02.513519\"}",
+        "metadata": {
+            "component_id": "purple_header_component_1723693506"
+        }
+    },
+    {
+        "id": "guest17082024191724",
+        "timestamp": "2024-08-17T19:17:25",
+        "role": "user",
+        "source": "user",
+        "content": "change the image to be of a pile of toilet paper all over the place",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1723693506"
+        }
+    },
+    {
+        "id": "guest17082024191724",
+        "timestamp": "2024-08-17T19:17:29",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the new image to be more realistic or stylized/cartoonish?\", \"option1\": \"Realistic\", \"option2\": \"Stylized/Cartoonish\"}, {\"question 2\": \"Should the new image maintain the current color scheme of the website or are you looking for something that introduces new colors?\", \"option1\": \"Maintain current color scheme\", \"option2\": \"Introduce new colors\"}], \"input_token_count\": 278, \"output_token_count\": 102, \"time_taken\": \"0:00:03.179280\"}",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1723693506"
+        }
+    },
+    {
+        "id": "guest17082024191724",
+        "timestamp": "2024-08-17T19:17:32",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add high-quality, zoomable images of individual toilet paper products\", \"checked\": false}, {\"feature\": \"Implement a 'featured products' slider on the homepage with eye-catching toilet paper collections\", \"checked\": false}, {\"feature\": \"Introduce an interactive product customization tool for users to visualize different toilet paper designs\", \"checked\": false}, {\"feature\": \"Add a gallery section with creative and funny uses of toilet paper for inspiration\", \"checked\": false}, {\"feature\": \"Include user-generated content section where customers can upload their own photos with the purchased toilet paper\", \"checked\": false}, {\"feature\": \"Incorporate a 'before and after' image comparison feature for eco-friendly toilet paper\", \"checked\": false}], \"input_token_count\": 232, \"output_token_count\": 164, \"time_taken\": \"0:00:06.436251\"}",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1723693506"
+        }
+    },
+    {
+        "id": "project_init",
+        "timestamp": "2024-08-15T03:45:06",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Can you describe the project a bit more?",
+        "metadata": {}
+    },
+    {
+        "id": "guest23082024200929",
+        "timestamp": "2024-08-23T20:09:29",
+        "role": "user",
+        "source": "user",
+        "content": "Change the image to be a dinosaur",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest23082024200929",
+        "timestamp": "2024-08-23T20:09:30",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Got it, working on changing the image to a dinosaur.",
+        "metadata": {}
+    },
+    {
+        "id": "guest23082024200929",
+        "timestamp": "2024-08-23T20:09:35",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the dinosaur image to have a specific theme or color scheme to match the current website design?\", \"option1\": \"Yes, please match it with the website's current color scheme.\", \"option2\": \"No, any colorful dinosaur image will work.\"}, {\"question 2\": \"Should the new dinosaur image replace a specific existing image or be added as a new element on the page?\", \"option1\": \"Replace an existing image.\", \"option2\": \"Add as a new element on the page.\"}], \"input_token_count\": 401, \"output_token_count\": 118, \"time_taken\": \"0:00:04.486235\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest23082024200929",
+        "timestamp": "2024-08-23T20:09:38",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjust the color palette to complement the new dinosaur image, ensuring it matches the website's theme.\", \"checked\": true}, {\"feature\": \"Add an interactive dinosaur-themed game as a user engagement tool on the home page.\", \"checked\": false}, {\"feature\": \"Implement an 'Easter Egg' feature that reveals fun facts about dinosaurs when certain images are clicked.\", \"checked\": false}, {\"feature\": \"Update the product descriptions to include humorous references to dinosaurs, enhancing the overall fun vibe of the marketplace.\", \"checked\": true}, {\"feature\": \"Incorporate dinosaur-themed animations or transitions for loading screens or while navigating between pages.\", \"checked\": true}, {\"feature\": \"Add a filter option in the product search to 'Sort by Prehistoric Popularity', blending the dinosaur theme with the product listings.\", \"checked\": false}], \"input_token_count\": 355, \"output_token_count\": 185, \"time_taken\": \"0:00:07.804903\"}",
+        "metadata": {
+            "component_id": "dark_footer_component_1724443746"
+        }
+    },
+    {
+        "id": "guest23082024201347",
+        "timestamp": "2024-08-23T20:13:48",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Certainly, I'll change the image to a dinosaur.",
+        "metadata": {}
+    },
+    {
+        "id": "guest23082024201347",
+        "timestamp": "2024-08-23T20:13:53",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific type or style of dinosaur image in mind?\", \"option1\": \"Yes, I want a cartoon-style dinosaur.\", \"option2\": \"No, any realistic dinosaur image will work.\"}, {\"question 2\": \"Should the dinosaur image replace all current images or be added to a specific section?\", \"option1\": \"Replace all current images\", \"option2\": \"Add to a specific section only\"}], \"input_token_count\": 401, \"output_token_count\": 100, \"time_taken\": \"0:00:02.970350\"}",
+        "metadata": {
+            "component_id": "simple_footer_component_1724444005"
+        }
+    },
+    {
+        "id": "guest23082024201347",
+        "timestamp": "2024-08-23T20:13:55",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement a customizable background feature allowing users to choose between various themes including dinosaurs, toilet paper piles, and other patterns.\", \"checked\": true}, {\"feature\": \"Add a dynamic product showcase carousel on the homepage featuring top-selling toilet papers with animated dinosaur mascots for engagement.\", \"checked\": false}, {\"feature\": \"Include a 'Fun Facts' section about toilet paper with interactive dinosaur-themed illustrations.\", \"checked\": false}, {\"feature\": \"Introduce an augmented reality (AR) view feature allowing users to visualize products in their space alongside playful dinosaur graphics.\", \"checked\": false}, {\"feature\": \"Create a feedback form with a dinosaur-themed UI for users to suggest future backgrounds or features.\", \"checked\": false}], \"input_token_count\": 355, \"output_token_count\": 158, \"time_taken\": \"0:00:05.212832\"}",
+        "metadata": {
+            "component_id": "simple_footer_component_1724444005"
+        }
+    },
+    {
+        "id": "guest23082024202255",
+        "timestamp": "2024-08-23T20:22:55",
+        "role": "user",
+        "source": "user",
+        "content": "Add another form field called \"Asdf\" in addition to the password",
+        "metadata": {
+            "component_id": "basic_login_form_1724444527"
+        }
+    },
+    {
+        "id": "guest23082024202255",
+        "timestamp": "2024-08-23T20:22:56",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Noted, adding a new form field called \"Asdf\".",
+        "metadata": {}
+    },
+    {
+        "id": "guest23082024202255",
+        "timestamp": "2024-08-23T20:23:03",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add input validation for 'Asdf' form field to ensure data integrity\", \"checked\": true}, {\"feature\": \"Implement dynamic tooltips for the 'Asdf' field to guide users on what to input\", \"checked\": false}, {\"feature\": \"Add a 'Show/Hide' password toggle for enhanced user security\", \"checked\": true}, {\"feature\": \"Incorporate real-time field validation feedback for the 'Asdf' and password fields\", \"checked\": false}, {\"feature\": \"Introduce a password strength indicator next to the password field\", \"checked\": true}, {\"feature\": \"Enable auto-fill for the 'Asdf' field for returning users\", \"checked\": false}], \"input_token_count\": 231, \"output_token_count\": 158, \"time_taken\": \"0:00:06.103983\"}",
+        "metadata": {
+            "component_id": "basic_login_form_1724444527"
+        }
+    },
+    {
+        "id": "guest23082024202339",
+        "timestamp": "2024-08-23T20:23:39",
+        "role": "user",
+        "source": "user",
+        "content": "Add another button called: \"Hadoken\"",
+        "metadata": {
+            "component_id": "basic_login_form_1724444527"
+        }
+    },
+    {
+        "id": "guest23082024202339",
+        "timestamp": "2024-08-23T20:23:40",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Got it, I'll add a button named \"Hadoken\".",
+        "metadata": {}
+    },
+    {
+        "id": "guest23082024202339",
+        "timestamp": "2024-08-23T20:23:43",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hadoken' button to be positioned on the page?\", \"option1\": \"Next to the existing 'Buy Now' button\", \"option2\": \"At the bottom of the product description\"}, {\"question 2\": \"What action should be triggered when the 'Hadoken' button is clicked?\", \"option1\": \"Add the product to the shopping cart\", \"option2\": \"Show more product details\"}], \"input_token_count\": 272, \"output_token_count\": 103, \"time_taken\": \"0:00:02.100838\"}",
+        "metadata": {
+            "component_id": "basic_login_form_1724444527"
+        }
+    },
+    {
+        "id": "guest23082024202339",
+        "timestamp": "2024-08-23T20:23:48",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add 'Quick Reorder' button for repeat purchases\", \"checked\": true}, {\"feature\": \"Incorporate a 'Product Comparison' tool\", \"checked\": false}, {\"feature\": \"Enable 'Wishlist' feature for users to save favorites\", \"checked\": false}, {\"feature\": \"Add 'Filter by Brand' option in the search area\", \"checked\": true}, {\"feature\": \"Implement 'Real-time Stock Updates' on product pages\", \"checked\": true}, {\"feature\": \"Introduce 'Customer Ratings & Reviews' section for products\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 123, \"time_taken\": \"0:00:06.896894\"}",
+        "metadata": {
+            "component_id": "basic_login_form_1724444527"
+        }
+    },
+    {
+        "id": "guest26082024212427",
+        "timestamp": "2024-08-26T21:24:27",
+        "role": "user",
+        "source": "user",
+        "content": "Replace the image in the component with a t-rex",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212427",
+        "timestamp": "2024-08-26T21:24:35",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the T-Rex image to have a specific art style?\", \"option1\": \"Yes, a realistic style.\", \"option2\": \"No, a cartoonish style.\"}, {\"question 2\": \"Should the T-Rex image be in a specific action pose or static pose?\", \"option1\": \"Yes, in an action pose (e.g., running or roaring).\", \"option2\": \"No, a static pose will suffice.\"}], \"input_token_count\": 530, \"output_token_count\": 107, \"time_taken\": \"0:00:04.622856\"}",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212427",
+        "timestamp": "2024-08-26T21:24:36",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a slider for before and after views of product images, showcasing the t-rex image transformation\", \"checked\": true}, {\"feature\": \"Implement hover-over tooltips on the t-rex image for product details\", \"checked\": false}, {\"feature\": \"Incorporate an interactive 3D model viewer for the t-rex image to enhance user engagement\", \"checked\": false}, {\"feature\": \"Enable user-uploaded photos for personalized product previews with the t-rex image\", \"checked\": false}, {\"feature\": \"Add a 'Related Products' carousel below the t-rex image to increase discoverability of similar items\", \"checked\": true}, {\"feature\": \"Integrate social share buttons on the product page for the t-rex image to increase virality\", \"checked\": true}], \"input_token_count\": 484, \"output_token_count\": 183, \"time_taken\": \"0:00:05.432624\"}",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212521",
+        "timestamp": "2024-08-26T21:25:22",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Affirmative, working on replacing the image with a laptop.",
+        "metadata": {}
+    },
+    {
+        "id": "guest26082024212521",
+        "timestamp": "2024-08-26T21:25:22",
+        "role": "user",
+        "source": "user",
+        "content": "replace the image with a laptop",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212521",
+        "timestamp": "2024-08-26T21:25:29",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement responsive image gallery for showcasing different types of toilet paper\", \"checked\": true}, {\"feature\": \"Add hover effects on images for instant product previews\", \"checked\": false}, {\"feature\": \"Incorporate a feature to allow users to upload their own toilet paper designs via a web interface\", \"checked\": false}, {\"feature\": \"Add a comparison tool to compare different toilet paper products side by side\", \"checked\": true}, {\"feature\": \"Implement a 'Favorites' feature to let users save their preferred toilet paper choices for quick access\", \"checked\": true}, {\"feature\": \"Add tooltips and information icons next to product features for user education on sustainability practices\", \"checked\": false}], \"input_token_count\": 223, \"output_token_count\": 158, \"time_taken\": \"0:00:05.499567\"}",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212623",
+        "timestamp": "2024-08-26T21:26:23",
+        "role": "user",
+        "source": "user",
+        "content": "replace the image with a laptop",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212623",
+        "timestamp": "2024-08-26T21:26:24",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Acknowledged, I will replace the image with a laptop.",
+        "metadata": {}
+    },
+    {
+        "id": "guest26082024212623",
+        "timestamp": "2024-08-26T21:26:29",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically should the laptop image be placed on the website?\", \"option1\": \"In the header next to the site logo\", \"option2\": \"As the main background image for the homepage\"}, {\"question 2\": \"Do you have a specific laptop image in mind, or would you prefer we select one that fits the current design aesthetics?\", \"option1\": \"I will provide the specific laptop image\", \"option2\": \"Please select an image that fits the current design\"}], \"input_token_count\": 619, \"output_token_count\": 112, \"time_taken\": \"0:00:03.967072\"}",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212623",
+        "timestamp": "2024-08-26T21:26:32",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a high-resolution laptop image suitable for all devices\", \"checked\": true}, {\"feature\": \"Implement a responsive image viewer for the laptop image\", \"checked\": true}, {\"feature\": \"Include an interactive gallery to showcase different laptop models\", \"checked\": false}, {\"feature\": \"Offer a zoom feature on the laptop image for detailed viewing\", \"checked\": false}, {\"feature\": \"Enable users to upload custom laptop images as profile pictures\", \"checked\": false}, {\"feature\": \"Incorporate a feature to compare laptop images side by side\", \"checked\": false}], \"input_token_count\": 573, \"output_token_count\": 122, \"time_taken\": \"0:00:07.343767\"}",
+        "metadata": {
+            "component_id": "search_input_1724443554"
+        }
+    },
+    {
+        "id": "guest26082024212722",
+        "timestamp": "2024-08-26T21:27:22",
+        "role": "user",
+        "source": "user",
+        "content": "Replace the image with a picture of a laptop",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1723693506"
+        }
+    },
+    {
+        "id": "guest26082024212722",
+        "timestamp": "2024-08-26T21:27:33",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically on the site do you want the laptop image to be placed?\", \"option1\": \"Replace the main banner image\", \"option2\": \"Replace an image within a specific section or component\"}, {\"question 2\": \"Do you have a specific laptop image in mind, or would you like us to select a high-quality stock image?\", \"option1\": \"I will provide the image\", \"option2\": \"Please select a stock image\"}], \"input_token_count\": 622, \"output_token_count\": 106, \"time_taken\": \"0:00:06.417194\"}",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1723693506"
+        }
+    },
+    {
+        "id": "guest26082024212722",
+        "timestamp": "2024-08-26T21:27:35",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Replace the existing image with a high-resolution picture of a laptop, ensuring it blends well with the site's design\", \"checked\": true}, {\"feature\": \"Add an interactive product comparison feature, allowing users to compare different brands of toilet paper\", \"checked\": false}, {\"feature\": \"Implement a dynamic price tracker that tracks and displays the current prices of toilet paper from various suppliers\", \"checked\": false}, {\"feature\": \"Incorporate customer reviews and ratings for each toilet paper brand, enabling users to make informed decisions\", \"checked\": false}, {\"feature\": \"Design a 'favorites' feature where users can save their preferred toilet paper brands for quick access in future visits\", \"checked\": false}, {\"feature\": \"Create a 'New Arrivals' section to showcase the latest products in the toilet paper market\", \"checked\": false}], \"input_token_count\": 576, \"output_token_count\": 187, \"time_taken\": \"0:00:09.174270\"}",
+        "metadata": {
+            "component_id": "purple_background_cta_component_1723693506"
+        }
     }
 ]
